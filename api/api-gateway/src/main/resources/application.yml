@@ -1,0 +1,3 @@
+# Add port to works with [api-gateway]
+server:
+  port: 8080
